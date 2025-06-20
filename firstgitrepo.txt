@@ -1,0 +1,1 @@
+Adding text in firstgitrepo and creating new folder to get to know the git status
